@@ -1,5 +1,11 @@
 # The Midnight Heist
 
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/Anggit98tkj/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/Anggit98tkj/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+
+Built for the make.fun bounty [Make the best heist game](https://make.fun/bounty/best-heist-game-20261122-0559).
+
 A top-down heist game that runs offline in a desktop browser from static
 files. You are Wren, the crew's infiltrator. Three jobs: a gallery, a bank,
 and a casino vault. Steal every piece of loot, then slip out through the
